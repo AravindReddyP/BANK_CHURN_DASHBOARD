@@ -1,5 +1,5 @@
 # Banking Analytics Power BI Project
-A Sample Project on the Churn rate in Banking Sector
+A Sample Project on Churn rate in the Banking Sector
 
 ## Overview
 This repository contains a comprehensive Power BI project focused on banking analytics and customer churn analysis. The project includes various data sets, Power BI reports, and supporting documentation for end-to-end business intelligence solutions.
